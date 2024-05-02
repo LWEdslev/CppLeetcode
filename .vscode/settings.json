@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.dlp": "java",
+        "vector": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
